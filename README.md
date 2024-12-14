@@ -1,3 +1,2 @@
 # Rubiks-cube 
-
-This is about how to solve Rubiks cube using advanced algortihms
+This repo about how to solve Rubiks Cube using Algorithmic Approach
