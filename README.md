@@ -1,2 +1,2 @@
 # Rubiks-cube 
-This repo about how to solve Rubiks Cube using Algorithmic Approach
+This repo is about how to solve Rubiks Cube using Algorithmic Approach
